@@ -21,5 +21,5 @@
 Estou familiarizado e desenvolvendo projetos utilizando:
 *(I am familiar with and developing projects using:)*
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git&perline=19" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,express,git&perline=19" alt="Tech stack icons" />
 </p>
