@@ -7,8 +7,8 @@
 
 ## 🎓 Sobre Mim (About Me)
 
-* 💻 Atualmente cursando o **2º Semestre de Ciência da Computação** (2/8)
-  *(Currently pursuing the **2th Semester of Computer Science** (2/8))*
+* 💻 Atualmente cursando o **3º Semestre de Ciência da Computação** (3/8)
+  *(Currently pursuing the **3th Semester of Computer Science** (3/8))*
 * 🌱 Sempre aprendendo e aprimorando minhas habilidades em desenvolvimento web.
   *(Always learning and improving my Web Development skills.)*
 * 💡 Focado em construir projetos práticos e de código aberto.
