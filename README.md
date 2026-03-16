@@ -1,4 +1,4 @@
-# Olá 🚀, sou o TheLizimm! (Hello, I am TheLizimm!)*
+# Olá, sou o TheLizimm! (Hello, I am TheLizimm!)
 
 **Desenvolvedor em formação e entusiasta de tecnologia.**
 *(Aspiring Developer and Technology Enthusiast.)*
@@ -18,8 +18,22 @@
 
 ## 🛠️ Minhas Habilidades (Current Knowledge)
 
-Estou familiarizado e desenvolvendo projetos utilizando:
-*(I am familiar with and developing projects using:)*
+### :globe_with_meridians: Desenvolvimento Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,express,vue,postgres,java,git&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue" alt="Front-end stack" />
+</p>
+
+### :gear: Desenvolvimento Back-End
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java" alt="Back-end stack" />
+</p>
+
+### :file_cabinet: Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Database stack" />
+</p>
+
+### :wrench: Ferramentas e Controle de Versão
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Tools stack" />
 </p>
