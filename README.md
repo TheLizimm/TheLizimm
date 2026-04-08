@@ -25,7 +25,7 @@
 
 ### :gear: Desenvolvimento Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java" alt="Back-end stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,c" alt="Back-end stack" />
 </p>
 
 ### :file_cabinet: Banco de Dados
@@ -35,5 +35,5 @@
 
 ### :wrench: Ferramentas e Controle de Versão
 <p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Tools stack" />
+  <img src="https://skillicons.dev/icons?i=git,npm" alt="Tools stack" />
 </p>
